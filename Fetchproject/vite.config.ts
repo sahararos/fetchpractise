@@ -8,4 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  base: "https://sahararos.github.io/fetchpractise/Fetchproject"
 })
+ 
